@@ -38,7 +38,7 @@
         <version>2.2</version>
         <configuration>
           <url>http://195.133.46.95:8085/t</url>
-          <server>TomcatServer</server>
+          <server>tomcatsrv</server>
           <path>/myapp</path>
         </configuration>
       </plugin>
